@@ -1,7 +1,0 @@
-# RuangPython
-
-```
-code_snippet
-```
-
-
