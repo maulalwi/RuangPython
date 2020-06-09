@@ -1,0 +1,1 @@
+# Pertanyaan Umum Mengenai Python 
